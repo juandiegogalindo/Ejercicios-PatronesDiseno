@@ -1,4 +1,4 @@
-# 📐 Ejercicios-PatronesDiseno
+# Ejercicios-PatronesDiseno
 
 ## 1. Nombre del Proyecto
 
