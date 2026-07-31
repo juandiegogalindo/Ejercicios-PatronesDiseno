@@ -111,5 +111,5 @@ El Main le pregunta al usuario si tiene permisos y así decide si el Proxy deja 
 **Juan Diego Galindo**
 Estudiante de Ingeniería de Sistemas - Cuarto Semestre
  
-- GitHub: [@tu-usuario](https://github.com/juandiegogalindo)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/jdgalindo6)
+- GitHub: [Juan Diego Galindo Montenegro](https://github.com/juandiegogalindo)
+- LinkedIn: [Juan Diego Galindo Montenegro](https://linkedin.com/in/jdgalindo6)
